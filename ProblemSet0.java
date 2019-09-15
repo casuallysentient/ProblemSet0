@@ -79,6 +79,7 @@ public class ProblemSet0 {
          *
          * Print a square of text to the console.
          */
+         //wait i committed it with the wrong numbers wait a min
 
         System.out.println(" H E L L O \n E \t A \n L \t P \n L \t C \n O A P C S \n");
 
