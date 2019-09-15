@@ -110,7 +110,7 @@ public class ProblemSet0 {
          * Print an encouraging message to the console.
          */
 
-        System.out.println("You're almost done with your first problem set...\n")
+        System.out.println("You\'re almost done with your first problem set...\n");
 
         /*
          * Exercise 10.
