@@ -118,8 +118,8 @@ public class ProblemSet0 {
          * Print a plus sign to the console.
          */
 
-        System.out.println(\t+---+\n\t|\t|);
-        System.out.println(+---+\t+---+\n|\t\t\t|\n+---+\t+---+);
-        System.out.println(\t|\t|\t\n\t+---+\n);
+        System.out.println("\t    +---+\n\t    |   |");
+        System.out.println("\t+---+   +---+\n\t|\t    |\n\t+---+\t+---+");
+        System.out.println("\t    |   |\t\n\t    +---+\n");
     }
 }
