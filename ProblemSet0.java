@@ -35,6 +35,7 @@ public class ProblemSet0 {
          */
 
          //i'm trying to figure out the commit system i just solved this whole problem and it won't let me commit so this is my new change lol
+         //ok i think i just figured it out
 
         System.out.println("   ##    ######  ######## ########");
         System.out.println("  #  #   #     # #        #       ");
