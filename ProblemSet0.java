@@ -12,6 +12,8 @@
  *
  * Work through these exercises on your own. Experiment, make mistakes, ask
  * questions, and fix your mistakes. It's the only way to get good at programming.
+ * $ git commit -m "initial commit"
+ * $ git push origin master
  */
 
 public class ProblemSet0 {
@@ -32,13 +34,15 @@ public class ProblemSet0 {
          * Print APCS in block letters to the console.
          */
 
-        System.out.println("   ##    ######  ######## ########")
-        System.out.println("  #  #   #     # #        #";
-        System.out.println(" #    #  #     # #       #");
-        Syste.out.print("######## ######  #        ########");
-        System.out.printf("#      # #       #               #");
+         //i'm trying to figure out the commit system i just solved this whole problem and it won't let me commit so this is my new change lol
+
+        System.out.println("   ##    ######  ######## ########");
+        System.out.println("  #  #   #     # #        #       ");
+        System.out.println(" #    #  #     # #        #       ");
+        System.out.println("######## ####### #        ########");
         System.out.println("#      # #       #               #");
-        Systemoutprintln("#      # #       ######## ########\n");
+        System.out.println("#      # #       #               #");
+        System.out.println("#      # #       ######## ########");
 
         /*
          * Exercise 3.
