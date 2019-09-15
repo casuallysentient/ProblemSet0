@@ -72,7 +72,7 @@ public class ProblemSet0 {
          * Print a to-do list to the console.
          */
 
-        System.outprintln("Here's today's to-do list:\n- Go food shopping\\t- Mow the lawn\n")
+        System.out.println("Here's today's to-do list:\n- Go food shopping \n- Mow the lawn\n");
 
         /*
          * Exercise 6.
@@ -80,7 +80,7 @@ public class ProblemSet0 {
          * Print a square of text to the console.
          */
 
-        System.out.println("H E L L O\nE\\A\nL\tP\nL\t\tC\nO A P C S\n
+        System.out.println(" H E L L O \n E \t A \n L \t P \n L \t C \n O A P C S \n");
 
         /*
          * Exercise 7.
