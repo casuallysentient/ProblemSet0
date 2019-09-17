@@ -59,8 +59,8 @@ public class ProblemSet0 {
          * Print a face to the console.
          */
 
-        System.out.println("  \\\\\\\\\\\\\\ " );
-        System.out.println("  \"\"\"\"\"\"\" " );
+        System.out.println("   \\\\\\\\\\ " );
+        System.out.println("  +\"\"\"\"\"+ " );
         System.out.println("(|  0 0  |)"       );
         System.out.println(" |   ^   | "       );
         System.out.println(" |  '-'  | "       );
@@ -89,7 +89,7 @@ public class ProblemSet0 {
          * Print a countdown to the console.
          */
 
-        System.out.println("Three.\nTwo.\nOne.\nGo!\n");
+        System.out.println("Three.\tTwo.\tOne.\tGo!\n");
 
         /*
          * Exercise 8.
